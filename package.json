@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2",
+    "puppeteer": "^21.6.1"
+  },
+  "name": "pupteer-linkedin",
+  "version": "1.0.0",
+  "main": "puppeteer.js",
+  "scripts": {
+    "start": "nodemon src/puppeteer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
